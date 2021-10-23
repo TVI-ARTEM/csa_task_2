@@ -1,0 +1,19 @@
+---Sorted Container---
+Filled Container:
+Container contains 3 elements
+1: It's Square Matrix: dimension = 2
+1.000000 2.000000 
+3.000000 4.000000 
+Average 2.500000
+2: It's low triangle Matrix: dimension =  2 
+1.000000 0 
+2.000000 3.000000 
+Average  1.500000 
+3: It's Diagonal Matrix: dimension = 2
+1.0000000 
+0 2.000000
+Average 0
+
+Time sorted: 0.004000s
+
+Time after clearing: 0.004000s

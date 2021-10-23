@@ -1,0 +1,8 @@
+Filled Container:
+Container contains 1 elements
+1: It's Square Matrix: dimension = 2
+3.000000 4.000000 
+5.000000 6.000000 
+Average 4.500000
+
+Time: 0.004000s

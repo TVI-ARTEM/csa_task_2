@@ -1,0 +1,14 @@
+Filled Container:
+Container contains 2 elements
+1: It's Square Matrix: dimension = 3
+1.000000 2.000000 3.000000 
+4.000000 5.000000 6.000000 
+7.000000 8.000000 9.000000 
+Average 5.000000
+2: It's low triangle Matrix: dimension =  3 
+1.000000 0 0 
+4.000000 5.000000 0 
+7.000000 8.000000 9.000000 
+Average  3.777778 
+
+Time: 0.005000s

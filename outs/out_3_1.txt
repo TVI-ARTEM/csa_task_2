@@ -1,0 +1,17 @@
+Filled Container:
+Container contains 4 elements
+1: It's Square Matrix: dimension = 1
+1.000000 
+Average 1.000000
+2: It's Diagonal Matrix: dimension = 2
+1.0000000 
+0 0.000000
+Average 0
+3: Incorrect Matrix
+4: It's low triangle Matrix: dimension =  3 
+1.000000 0 0 
+2.000000 3.000000 0 
+4.000000 5.000000 6.000000 
+Average  2.333333 
+
+Time: 0.005000s

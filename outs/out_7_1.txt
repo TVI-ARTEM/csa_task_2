@@ -1,0 +1,9 @@
+Filled Container:
+Container contains 2 elements
+1: Incorrect Matrix
+2: It's Diagonal Matrix: dimension = 2
+1.0000000 
+0 2.000000
+Average 0
+
+Time: 0.003000s
